@@ -1,0 +1,14 @@
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\bin\Debug\BusTicket.exe.config
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\bin\Debug\BusTicket.exe
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\bin\Debug\BusTicket.pdb
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket.csprojResolveAssemblyReference.cache
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\MainWindow.g.cs
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\App.g.cs
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket_MarkupCompile.cache
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket_MarkupCompile.lref
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\MainWindow.baml
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket.g.resources
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket.Properties.Resources.resources
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.GenerateResource.Cache
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket.exe
+D:\CapacitacionVS\CapacitacionVSC\BusTicket\BusTicket\obj\Debug\BusTicket.pdb

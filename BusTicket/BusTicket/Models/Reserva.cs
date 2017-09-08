@@ -6,33 +6,33 @@ using System.Threading.Tasks;
 
 namespace BusTicket.Models
 {
-    public struct Reserva
+    public class Reserva
     {
-        private Localizacion destino;
-        private Localizacion salida;
-        private DateTime fecha;
+        private Localizacion TDestino;
+        private Localizacion TOrigen;
+        private DateTime dFecha;
 
         public Localizacion Destino
         {
             get
             {
-                return destino;
+                return TDestino;
             }
             set
             {
-                destino = value;
+                TDestino = value;
             }
         }
 
-        public Localizacion Salida
+        public Localizacion Origen
         {
             get
             {
-                return salida;
+                return TOrigen;
             }
             set
             {
-                salida = value;
+                TOrigen = value;
             }
         }
 
@@ -40,11 +40,11 @@ namespace BusTicket.Models
         {
             get
             {
-                return fecha;
+                return dFecha;
             }
             set
             {
-                fecha = value;
+                dFecha = value;
             }
         }
 
